@@ -68,7 +68,6 @@ Changement d'interfaces
 
 ![Sources](IMG_20220628_165558.jpg){#fig-sources}
 
-```{=html}
 <!-- ## Branchements caméras et autre
 
 Le branchement de la caméra et autres (cable Ethernet, source HDMI, etc.) dépend du système utilisé.
@@ -89,7 +88,8 @@ Sur le système Windows, les branchements doivent se faire sur la partie supéri
     \end{subfigure
     \caption{Branchements (camera, etc)
 \end{figure -->
-```
+
+
 ## Connection
 
 Depuis le systeme Windows, il y a deux possibilites de connection.
