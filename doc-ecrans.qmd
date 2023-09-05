@@ -98,15 +98,15 @@ L'utilisateur peut choisir de se connecter via son adresse Ifremer en specifiant
 
 Ou alors l'utilisateur peut choisir de se connecter sur une session anonyme. Pour cela, il faut se connecter en tant que `SpeechiTouch` (pas de mot de passe).
 
-Si vous rencontrez des difficultes pour vous connecter en anonyme, specifier le nom de la machine comme ceci:
+Si vous rencontrez des difficultes pour vous connecter en anonyme, specifier le nom de la machine comme indique @tbl-login.
 
-| Ecran                  | Login                       |
-|------------------------|-----------------------------|
-| Salle Mediterannee     | SPEECHI-MED\\SpeechiTouch   |
-| Scenario Lab (ecran 1) | SPEECHI-SCEN1\\SpeechiTouch |
-| Scenario Lab (ecran 2) | SPEECHI-SCEN1\\SpeechiTouch |
+| Ecran                  | Login                        |
+|------------------------|------------------------------|
+| Salle Mediterannee     | `SPEECHI-MED\SpeechiTouch`   |
+| Scenario Lab (ecran 1) | `SPEECHI-SCEN1\SpeechiTouch` |
+| Scenario Lab (ecran 2) | `SPEECHI-SCEN1\SpeechiTouch` |
 
-: Login complet pour une connection anonyme
+: Login complet pour une connection anonyme {#tbl-login}
 
 ## Zoom et Teams
 
@@ -115,3 +115,25 @@ Les écrans sont associés à une caméra, permettant des visioconférences "pet
 Pour lancer Zoom depuis l'interface Windows, cliquer sur le bouton "Démarrer" et rechercher l'application Zoom. Sur le systeme Windows, Microsoft Teams est aussi installe.
 
 Pour lancer Zoom depuis l'interface Android, cliquer sur le symbole Applications (en bas au centre de l'ecran, Figure @fig-sys-andro). Puis choisir Zoom parmi les applications.
+
+## Licences
+
+Pour utiliser certains logiciels, certains numeros de licences pourraient vous etre demandes.
+
+Draft:
+
+- FD59-4954-32E0-3253
+- C300-77FD-5F76-1675
+- 5653-EAF6-0414-F77C
+
+IOLAOS:
+
+- 21506-01450-00077-89518
+- 21506-01450-00034-83053
+- 21506-01450-00070-01069
+
+SOFA:
+
+- 7XDZTNE20JWJ
+- QENIY8SIW060
+- E1D7A8Y80QBS
