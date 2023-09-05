@@ -1,0 +1,16 @@
+title: Utilisation écrans intéractifs Speechi
+author:
+  - name: Nicolas Barrier
+    orcid: 0000-0002-1693-4719
+    email:  nicolas.barrier@ird.fr
+    affiliations:
+      - name: IRD
+
+format:
+  pdf:
+    toc: false
+    number-sections: false
+    colorlinks: true
+    linestretch: 1.5
+    fontsize: 13pt
+    output-file: documentation-ecrans-speechi.pdf

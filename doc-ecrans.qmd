@@ -1,0 +1,117 @@
+## Precautions d'usage et bonnes pratiques
+
+Avant de commencer, voici quelques précautions d'usage et bonnes pratiques avant l'utilisation des écrans.
+
+-   Manipuler avec précaution les pieds lors des déplacements des écrans.
+-   Procéder avec précaution lors de l'ajustement en hauteur (via les poignées).
+-   Eteindre complètement les écrans après utilisation (bouton situé sous l'écran au niveau de l'alimentation)
+-   Replier les antennes du PC (côté de l'écran)
+
+## Matériel
+
+Chaque écran est livré avec:
+
+-   1 cable HDMI
+-   1 cable USB
+-   1 cordon d'alimentation
+-   1 télécommande
+-   2 stylets
+-   1 clavier sans fil
+
+**Merci de ne pas emporter ce matériel avec vous!**
+
+*Note: en salle ScenarioLab, utiliser le clavier qui correspond à l'écran utilisé (cf. étiquettes).*
+
+## Allumage
+
+Pour allumer les ecrans il faut:
+
+-   Allumer l'interrupteur situe en dessous, a cote de l'entree du cable d'alimentation (@fig-alum-1). Le bouton situe sur le devant de l'ecran devient rouge
+-   Allumer le bouton situe sur le devant de l'ecran (@fig-alum-1)
+
+::: {#fig-interrupteurs layout-ncol="2"}
+![Interrupteur du dessous](IMG_20230905_153816.jpg){#fig-alum-1}
+
+![Interrupteur du devant](IMG_20230905_153827.jpg){#fig-alum-2}
+
+Les deux interrupteurs de l'ecran
+:::
+
+## Double système
+
+Les écrans sont équipés de deux systèmes indépendants:
+
+-   1 système Android (Figure @fig-sys-andro)
+-   1 système Windows (Figure @fig-sys-win)
+
+::: {#fig-elephants layout-ncol="2"}
+![Systeme Android](IMG_20220628_142750.jpg){#fig-sys-andro}
+
+![Systeme Windows](IMG_20220628_143733.jpg){#fig-sys-win}
+
+Double systeme
+:::
+
+Pour changer de systeme, cliquer sur le symbole "Patte" sur un des côtés de l'écran (Figure @fig-symb-patte), puis sur le symbole "Source" (carré contenant 6 cercles, cf. Figure @fig-symb-source).
+
+Pour utiliser le système Windows, choisir "PC", pour choisir le système Android, cliquer sur "Android" (Figure @fig-sources).
+
+*Note: cette manipulation permet aussi de changer la source, par exemple si on branche un PC sur port HDMI ou autre.*
+
+::: {#fig-interface layout-ncol="2"}
+![Symbole "Patte"](IMG_20220628_165539.jpg){#fig-symb-patte}
+
+![Symbole "Source"](IMG_20220628_165547.jpg){#fig-symb-source}
+
+Changement d'interfaces
+:::
+
+![Sources](IMG_20220628_165558.jpg){#fig-sources}
+
+```{=html}
+<!-- ## Branchements caméras et autre
+
+Le branchement de la caméra et autres (cable Ethernet, source HDMI, etc.) dépend du système utilisé.
+Sur le système Windows, les branchements doivent se faire sur la partie supérieure droite de l'écran (au niveau des antennes, Figure @fig-plug-win). Sous système Android, le branchements se font sur la partie inférieure droite et en dessous de l'écran (Figure @fig-plug-andro).
+
+\begin{figure[h!]
+    \centering
+    \begin{subfigure[b]{0.4\textwidth
+        \includegraphics[width=\textwidth]{IMG_20220628_162019.jpg
+        \caption{Localisation branchements Windows
+        \label{fig-plug-win
+    \end{subfigure
+    \hfill
+    \begin{subfigure[b]{0.4\textwidth
+        \includegraphics[width=\textwidth]{IMG_20220628_162014.jpg
+        \caption{Localisation branchements Android
+        \label{fig-plug-andro
+    \end{subfigure
+    \caption{Branchements (camera, etc)
+\end{figure -->
+```
+## Connection
+
+Depuis le systeme Windows, il y a deux possibilites de connection.
+
+L'utilisateur peut choisir de se connecter via son adresse Ifremer en specifiant son adresse mail (par exemple `nbarrier@ifremer.fr`, en remplacant `nbarrier` par le login Intranet). Il faudra ensuite renseigner son mot de passe Ifremer.
+
+Ou alors l'utilisateur peut choisir de se connecter sur une session anonyme. Pour cela, il faut se connecter en tant que `SpeechiTouch` (pas de mot de passe).
+
+Si vous rencontrez des difficultes pour vous connecter en anonyme, specifier le nom de la machine comme ceci:
+
+| Ecran                  | Login                       |
+|------------------------|-----------------------------|
+| Salle Mediterannee     | SPEECHI-MED\\SpeechiTouch   |
+| Scenario Lab (ecran 1) | SPEECHI-SCEN1\\SpeechiTouch |
+| Scenario Lab (ecran 2) | SPEECHI-SCEN1\\SpeechiTouch |
+
+: Login complet pour une connection anonyme
+
+## Zoom et Teams
+
+Les écrans sont associés à une caméra, permettant des visioconférences "petite échelle".
+
+Pour lancer Zoom depuis l'interface Windows, cliquer sur le bouton "Démarrer" et rechercher l'application Zoom. Sur le systeme Windows, Microsoft Teams est aussi installe.
+
+Pour lancer Zoom depuis l'interface Android, cliquer sur le symbole Applications (en bas au centre de l'ecran, Figure @fig-sys-andro). Puis choisir Zoom parmi les applications.
